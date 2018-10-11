@@ -1,1 +1,1 @@
-document.write("Hola mundo");
+document.write("Te amo :3");
